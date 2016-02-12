@@ -1,0 +1,109 @@
+#MainBody
+{
+    font-family: "sans-serif";
+    font-size:15px;
+    background: linear-gradient( #f9f9f9, #a0a0a0);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin: 0;
+    text-align: justify;
+}
+
+#Counter {
+    text-align: center;
+}
+
+#DisplayPic
+{
+    height: 150px;
+    width: 150px;
+    margin: 3px;
+    border: 2px inset #484848;
+}
+
+.row a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.row a:hover {
+    color: #484848;
+    text-decoration: none;
+}
+
+.tooltiputd
+{
+    color: #F45905;
+    font-weight: bold;
+}
+
+#WhiteBack
+{
+    color:#C0C0C0  ;
+    margin:0px;
+
+}
+
+#Pic{
+    text-align: center;
+
+}
+
+#WhiteBack img {
+    width:350px;
+    height:50px;
+}
+
+#WhiteBack .col-xs-12 {
+    color:#F0F0F0;
+}
+
+#Options {
+    background-color: #484848;
+}
+
+#OptionCluster {
+    background-color:#484848;
+    color:#484848;
+    font-size: 15px;
+    margin:0px;
+}
+
+.list
+{
+    list-style-image:url('http://s14.postimg.org/b6cy5fdl9/Ico.png');
+}
+
+.myLists
+{
+    float:left;
+    clear:both;
+
+}
+
+#Frame {
+    height:52em;
+}
+
+#DPTitle {
+    color:#484848;
+    font-size: 60px;
+    margin-top:9px;
+    margin-bottom:0px;
+}
+
+#w3c img {
+    width:60px;
+    height:20px;
+}
+
+#OptionCluster .col-xs-1 {
+    margin-top:4px;
+    margin-bottom:4px;
+    text-align:center;
+}
+
+#OptionCluster .col-xs-1:hover {
+    background-color: #D0D0D0  ;
+    text-decoration: none;
+}
